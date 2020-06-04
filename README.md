@@ -3,7 +3,7 @@
 
 <hr />
 
-<h2>[task]<a href="https://github.com/BlueSkyXN/shell-bot">项目地址</a>[/task]</h2>
+<h2><a href="https://github.com/BlueSkyXN/shell-bot">项目地址</a></h2>
 
 <hr />
 
@@ -74,12 +74,14 @@ shell-bot遵循https_proxyor all_proxy变量来使用代理，并支持HTTP / HT
 1，nodejs安装有误（安装失败，未安装，安装不完全，版本过久）
 
 请参考这些文章
+<p class="entry-title"><a href="https://www.bluesky.cf/archives/2020/06/1168">运维系列：如何在 CentOS 安装 node.js</a></p>
+<a href="https://www.bluesky.cf/archives/2020/06/1162">运维系列：怎么更新升级node版本？</a>
 
-<a href="https://m.html.cn/qa/node-js/10667.html">怎么更新升级node版本？</a>
+<a href="https://github.com/Microsoft/node-pty#dependencies">microsoft/node-pty</a>
 
 <a href="https://blog.csdn.net/luckydarcy/article/details/79138650">如何在 CentOS 安装 node.js？</a>
 
-<a href="https://github.com/Microsoft/node-pty#dependencies">microsoft/node-pty</a>
+<a href="https://m.html.cn/qa/node-js/10667.html">怎么更新升级node版本？</a>
 
 （调整nodejs后请删除旧bot重新安装bot）
 
@@ -115,3 +117,10 @@ For a description of the Bot API, see this page: <a href="https://core.telegram
 5，不能yum/apt
 
 先检查系统是不是对应的，然后sudo有没有开权限，然后自行安装对应工具
+
+<hr />
+
+<h2>演示</h2>
+<img src="https://ae01.alicdn.com/kf/Hf81c898f81c04ecb90e72ac9c9fc0e5at.png" />
+
+<img src="https://ae01.alicdn.com/kf/H1598109d0d464c1c87591dfbd16ad75dA.png" />
