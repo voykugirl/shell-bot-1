@@ -4,6 +4,7 @@
 <hr />
 
 <h2><a href="https://github.com/BlueSkyXN/shell-bot">项目地址</a></h2>
+<h2><a href="https://www.bluesky.cf/archives/2020/06/1156">博客说明书</a></h2>
 
 <hr />
 
