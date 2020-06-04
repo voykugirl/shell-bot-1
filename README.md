@@ -109,3 +109,6 @@ For a description of the Bot API, see this page: https://core.telegram.org/bots/
 5，不能yum/apt
 
 先检查系统是不是对应的，然后sudo有没有开权限，然后自行安装对应工具
+
+6，常用命令
+https://github.com/BlueSkyXN/shell-bot/blob/master/commands.txt
